@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adarwash.github.io/miney-micro-income-playbook/sitemap.xml
